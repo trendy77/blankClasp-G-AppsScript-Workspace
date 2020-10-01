@@ -1,1 +1,1 @@
-blankClasp G-AppsScript Workspace
+BLANKCLASP G-APPSSCRIPT WORKSPACE
